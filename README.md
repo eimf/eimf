@@ -9,7 +9,7 @@
 <summary><b>🔠 About</b></summary>
 <blockquote>
 
-<img align="right" with="200" src="https://raw.githubusercontent.com/eimf/eimf/5d3d01a6beb39fcc603cf446a7e1abb0c07d2353/assets/1321.jpeg" alt="Ezequiel Lopez" />
+<img align="right" style="width: 200px; border-radius: 60%; overflow: hidden;" src="https://raw.githubusercontent.com/eimf/eimf/5d3d01a6beb39fcc603cf446a7e1abb0c07d2353/assets/1321.jpeg" alt="Ezequiel Lopez" />
 
 I software engineer based in McAllen TX. And I love writing code!
 
