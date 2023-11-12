@@ -1,9 +1,15 @@
 <!-- Title -->
 <h1 align="center" title="...and I'm happy to see you here :)">👋 This is Ezequiel (Zeke) </h1>
 
+<p align="center">
+<a href="mailto:lzdzel@gmail.com" title="Email Address"><code>MAIL TO MY GMAIL</code></a>
+</p>
+
 <!-- About Section -->
 <summary><b>🔠 About</b></summary>
 <blockquote>
+
+<img align="right" style="width: 200px; border-radius: 60% / 60%; overflow: hidden;" src="https://raw.githubusercontent.com/eimf/eimf/5d3d01a6beb39fcc603cf446a7e1abb0c07d2353/assets/1321.jpeg" alt="Ezequiel Lopez" />
 
 I software engineer based in McAllen TX. And I love writing code!
 
@@ -14,7 +20,6 @@ I love learning new things and the opportunity to try out new technologies and c
 When I'm not at the keyboard, I like to workout, read or eat carbs.
 
 </blockquote>
-
 
 </p>
 </details>
