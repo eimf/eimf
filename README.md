@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .oval-image {
+            width: 200px;
+            border-radius: 60%;
+            overflow: hidden;
+        }
+    </style>
+</head>
+
 <!-- Title -->
 <h1 align="center" title="...and I'm happy to see you here :)">👋 This is Ezequiel (Zeke) </h1>
 
@@ -9,7 +23,7 @@
 <summary><b>🔠 About</b></summary>
 <blockquote>
 
-<img align="right" style="width: 200px; border-radius: 60% / 60%; overflow: hidden;" src="https://raw.githubusercontent.com/eimf/eimf/5d3d01a6beb39fcc603cf446a7e1abb0c07d2353/assets/1321.jpeg" alt="Ezequiel Lopez" />
+<img align="right" class="oval-image" src="https://raw.githubusercontent.com/eimf/eimf/5d3d01a6beb39fcc603cf446a7e1abb0c07d2353/assets/1321.jpeg" alt="Ezequiel Lopez" />
 
 I software engineer based in McAllen TX. And I love writing code!
 
