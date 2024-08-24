@@ -11,13 +11,30 @@
 
 <img align="right" style="width: 200px; border-radius: 60%; overflow: hidden;" src="https://raw.githubusercontent.com/eimf/eimf/5d3d01a6beb39fcc603cf446a7e1abb0c07d2353/assets/1321.jpeg" alt="Ezequiel Lopez" />
 
-I software engineer based in McAllen TX. And I love writing code!
+Hello! I'm Ezequiel, a passionate and experienced software engineer with over a decade in the technology industry. My journey spans from web development and embedded systems to teaching and leadership roles, where I've continuously honed my skills and shared my knowledge.
 
-I care a lot about privacy and security, and have carried out several audits and have made numerous submissions to various bug bounty programs.
+💼 Professional Background
+Front-End Development: I have a deep expertise in modern web technologies, specializing in JavaScript frameworks such as React, Angular, and Backbone. My experience covers the full spectrum of front-end development, from responsive design to performance optimization.
 
-I love learning new things and the opportunity to try out new technologies and consume a lot of free caffeine.
+Back-End and Database Proficiency: Skilled in various databases like SQLServer, MySQL, MongoDB, SQLite, and PLSQL, I bring a robust understanding of server-side logic, data modeling, and performance tuning to every project I undertake.
 
-When I'm not at the keyboard, I like to workout, read or eat carbs.
+Agile Methodology & Version Control: With a strong command of Agile practices and experience using SVN and Git for version control, I excel in dynamic, fast-paced environments and contribute effectively to team collaboration and continuous integration workflows.
+
+Embedded Systems Design: My background in biomedical engineering has provided me with a unique perspective on embedded systems design and development, along with a deep understanding of communication protocols, which I have applied to various projects.
+
+Teaching & Mentorship: As a former university professor, I have a knack for breaking down complex concepts and fostering a collaborative learning environment. I enjoy mentoring aspiring developers and guiding teams to achieve their full potential.
+
+🎯 What I’m Working On
+I'm currently focused on:
+
+Building high-performance web applications with cutting-edge technologies.
+Exploring AI-powered services and platform development.
+Contributing to open-source projects and sharing my knowledge with the community.
+🌱 Learning & Growth
+I'm always eager to learn new technologies and methodologies. Recently, I've been diving deep into algorithm optimization and enhancing my Python skills, alongside maintaining my proficiency in front-end technologies.
+
+📫 Let's Connect
+Feel free to reach out if you're interested in collaboration, discussing tech, or just connecting!
 
 </blockquote>
 
