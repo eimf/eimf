@@ -16,7 +16,7 @@ Hello! I'm Ezequiel, a passionate and experienced software engineer with over a 
 💼 Professional Background
 Front-End Development: I have a deep expertise in modern web technologies, specializing in JavaScript frameworks such as React, Angular, and Backbone. My experience covers the full spectrum of front-end development, from responsive design to performance optimization.
 
-Back-End and Database Proficiency: Skilled in various databases like SQLServer, MySQL, MongoDB, SQLite, and PLSQL, I bring a robust understanding of server-side logic, data modeling, and performance tuning to every project I undertake.
+Back-End and Database Proficiency: I possess extensive experience in building scalable and efficient back-end systems, proficient in crafting server-side logic and ensuring seamless data flow between databases and applications.
 
 Agile Methodology & Version Control: With a strong command of Agile practices and experience using SVN and Git for version control, I excel in dynamic, fast-paced environments and contribute effectively to team collaboration and continuous integration workflows.
 
@@ -34,7 +34,7 @@ Contributing to open-source projects and sharing my knowledge with the community
 I'm always eager to learn new technologies and methodologies. Recently, I've been diving deep into algorithm optimization and enhancing my Python skills, alongside maintaining my proficiency in front-end technologies.
 
 📫 Let's Connect
-Feel free to reach out if you're interested in collaboration, discussing tech, or just connecting!
+Feel free to reach out if you're interested!
 
 </blockquote>
 
