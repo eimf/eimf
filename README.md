@@ -2,7 +2,7 @@
 <h1 align="center" title="...and I'm happy to see you here :)">👋 This is Ezequiel (Zeke) </h1>
 
 <p align="center">
-<a href="mailto:lzdzel@gmail.com" title="Email Address"><code>MAIL TO MY GMAIL</code></a>
+<a href="mailto:lzdzel@gmail.com" title="Email Address"><code>SEND ME AN EMAIL</code></a>
 </p>
 
 <!-- About Section -->
