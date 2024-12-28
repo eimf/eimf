@@ -11,30 +11,23 @@
 
 <img align="right" style="width: 200px; border-radius: 60%; overflow: hidden;" src="https://raw.githubusercontent.com/eimf/eimf/5d3d01a6beb39fcc603cf446a7e1abb0c07d2353/assets/1321.jpeg" alt="Ezequiel Lopez" />
 
-Hello! I'm Ezequiel, a passionate and experienced software engineer with over a decade in the technology industry. My journey spans from web development and embedded systems to teaching and leadership roles, where I've continuously honed my skills and shared my knowledge.
+👋 Hey there! I’m Ezequiel, a software engineer by trade and a tech enthusiast by default, with over a decade of experience turning caffeine and keyboard smashing into digital wizardry. My career is a wild ride spanning web dev, embedded systems, teaching, and occasional heroic debugging escapades.
 
-💼 Professional Background
-Front-End Development: I have a deep expertise in modern web technologies, specializing in JavaScript frameworks such as React, Angular, and Backbone. My experience covers the full spectrum of front-end development, from responsive design to performance optimization.
+💼 The Greatest Hits of My Career
+Front-End Shenanigans: I’m like the JavaScript whisperer. React, Angular, Backbone—you name it, I’ve tamed it. Whether it’s creating sleek, responsive designs or optimizing performance, I do it with the flair of a tech ninja.
 
-Back-End and Database Proficiency: I possess extensive experience in building scalable and efficient back-end systems, proficient in crafting server-side logic and ensuring seamless data flow between databases and applications.
+🐍 Pythonic Prowess: Python and I are besties. Whether it’s automating tedious tasks or crafting elegant solutions, I wield the snake like a wizard casting spells. Some say I code so smoothly, even the Python logo sheds a tear of joy.
 
-Agile Methodology & Version Control: With a strong command of Agile practices and experience using SVN and Git for version control, I excel in dynamic, fast-paced environments and contribute effectively to team collaboration and continuous integration workflows.
+🎯 What I’m Brewing These Days
+	•	Crafting web applications so slick they could skate uphill.
+	•	Exploring AI-powered platforms (Skynet, but, like, ethical).
+	•	Channeling my inner nerd into open-source projects.
 
-Embedded Systems Design: My background in biomedical engineering has provided me with a unique perspective on embedded systems design and development, along with a deep understanding of communication protocols, which I have applied to various projects.
+🌱 Continuous Level-Ups
+I’m all about learning. Lately, I’ve been deep-diving into Python’s quirks and squeezing the most out of algorithms. Fun fact: Python doesn’t bite, but it’ll definitely loop you in.
 
-Teaching & Mentorship: As a former university professor, I have a knack for breaking down complex concepts and fostering a collaborative learning environment. I enjoy mentoring aspiring developers and guiding teams to achieve their full potential.
-
-🎯 What I’m Working On
-I'm currently focused on:
-
-Building high-performance web applications with cutting-edge technologies.
-Exploring AI-powered services and platform development.
-Contributing to open-source projects and sharing my knowledge with the community.
-🌱 Learning & Growth
-I'm always eager to learn new technologies and methodologies. Recently, I've been diving deep into algorithm optimization and enhancing my Python skills, alongside maintaining my proficiency in front-end technologies.
-
-📫 Let's Connect
-Feel free to reach out if you're interested!
+📫 Slide Into My Inbox
+Want to talk tech, swap dad jokes, or brainstorm how to solve the universe’s mysteries one app at a time? Hit me up—I promise I’ll respond faster than your debugger throws an error.
 
 </blockquote>
 
