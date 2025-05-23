@@ -12,23 +12,10 @@
 
 <!-- <img align="right" style="width: 200px; border-radius: 60%; overflow: hidden;" src="https://raw.githubusercontent.com/eimf/eimf/5d3d01a6beb39fcc603cf446a7e1abb0c07d2353/assets/1321.jpeg" alt="Ezequiel Lopez" /> -->
 
-👋 Hey there! I’m Ezequiel, a software engineer by trade and a tech enthusiast by default, with over a decade of experience turning caffeine and keyboard smashing into digital wizardry. My career is a wild ride spanning web dev, embedded systems, teaching, and occasional heroic debugging escapades.
+💻 Software Engineer | Full-Stack Developer | Problem Solver
+I’m a software engineer with over 10 years of experience building digital solutions across different areas of tech. I enjoy solving complex problems, creating useful tools, and learning something new every day.
 
-💼 The Greatest Hits of My Career
-Front-End Shenanigans: I’m like the JavaScript whisperer. React, Angular, Backbone—you name it, I’ve tamed it. Whether it’s creating sleek, responsive designs or optimizing performance, I do it with the flair of a tech ninja.
-
-🐍 Pythonic Prowess: Python and I are besties. Whether it’s automating tedious tasks or crafting elegant solutions, I wield the snake like a wizard casting spells. Some say I code so smoothly, even the Python logo sheds a tear of joy.
-
-🎯 What I’m Brewing These Days <br>
-	•	Crafting web applications so slick they could skate uphill. <br>
-	•	Exploring AI-powered platforms (Skynet, but, like, ethical). <br>
-	•	Turning caffeine and curiosity into cool creations.
-
-🌱 Continuous Level-Ups
-I’m all about learning. Lately, I’ve been deep-diving into Python’s quirks and squeezing the most out of algorithms. Fun fact: Python doesn’t bite, but it’ll definitely loop you in.
-
-📫 Slide Into My Inbox
-Want to talk tech, swap dad jokes, or brainstorm how to solve the universe’s mysteries one app at a time? Hit me up—I promise I’ll respond faster than your debugger throws an error.
+Always open to connecting and sharing ideas.
 
 </blockquote>
 </details>
