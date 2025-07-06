@@ -5,35 +5,18 @@
   ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
-<div align="center">
-  
-# 👋 Hello! I'm Ezequiel
+# 👋 I'm Ezequiel
 
-### Engineer
+<details>
+  <summary><strong>## 🔠 About Me</strong></summary>
 
-<br>
-
-[![Email](https://img.shields.io/badge/📧_SEND_ME_AN_EMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lzdzel@gmail.com)
-
-<br>
-
----
-
-</div>
-
-## 🔠 About Me
-
-**💻 Software Engineer | Full-Stack Developer | Problem Solver**
-
-I'm a software engineer with over **10+ years** of experience building digital solutions across different areas of tech. I enjoy solving complex problems, creating useful tools, and learning something new every day.
-
-🚀 Always building something new  
-🌟 Open to collaboration  
+<strong>💻 Software Engineer | Full-Stack Developer | Problem Solver</strong><br><br>
+I'm a software engineer with over <strong>10+ years</strong> of experience building digital solutions across different areas of tech. I enjoy solving complex problems and learning something new every day.<br><br>
+🚀 Always building something new<br>
+🌟 Open to collaboration<br>
 💡 Love sharing ideas
 
-<br clear="right"/>
-
----
+</details>
 
 ## 🛠️ Tech Stack
 
@@ -48,6 +31,7 @@ I'm a software engineer with over **10+ years** of experience building digital s
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ☁️ Cloud & Deployment
 
@@ -56,6 +40,7 @@ I'm a software engineer with over **10+ years** of experience building digital s
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-011627?style=for-the-badge&logo=flydotio&logoColor=white)
 
 ### 🔧 DevOps & Tools
 
@@ -77,41 +62,30 @@ I'm a software engineer with over **10+ years** of experience building digital s
 
 </div>
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eimf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eimf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
-
----
 
 ## 🤝 Let's Connect
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezzykeeel/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lzdzel@gmail.com)
-
-<br>
-
-**💬 Always open to connecting and sharing ideas!**
-
+  <a href="https://www.linkedin.com/in/ezzykeeel/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lzdzel@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <br>
+  <strong>💬 Always open to connecting and sharing ideas!</strong>
 </div>
 
----
+## 🌟 Thanks for visiting my profile!
 
 <div align="center">
-  
-### 🌟 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=eimf&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-
+  <img src="https://komarev.com/ghpvc/?username=eimf&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <!--
