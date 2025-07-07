@@ -11,7 +11,7 @@
   <summary><strong>## 🔠 About Me</strong></summary>
 
 <strong>💻 Software Engineer | Full-Stack Developer | Problem Solver</strong><br><br>
-I'm a software engineer with over <strong>10+ years</strong> of experience building digital solutions across different areas of tech. I enjoy solving complex problems and learning something new every day.<br><br>
+I'm a software engineer with over <strong>13 years</strong> of experience building digital solutions across different areas of tech. I enjoy solving complex problems and learning something new every day.<br><br>
 🚀 Always building something new<br>
 🌟 Open to collaboration<br>
 💡 Love sharing ideas
@@ -26,7 +26,6 @@ I'm a software engineer with over <strong>10+ years</strong> of experience build
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -55,6 +54,7 @@ I'm a software engineer with over <strong>10+ years</strong> of experience build
 
 ### 🛠️ Development Tools
 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
