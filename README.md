@@ -9,12 +9,9 @@
 
 ## 🔠 About Me
 
-<strong> 👷 Engineer | 💻 Software Engineer | 🥞 Full-Stack Developer | 🙌 Problem Solver </strong><br><br>
-I'm a software engineer with over <strong>13 years</strong> of experience building digital solutions across different areas of tech. I enjoy solving complex problems and learning something new every day.<br><br>
-🚀 Always building something new<br>
-🌟 Open to collaboration<br>
-💡 Love sharing ideas
-
+<strong> 💻 Software Engineer | 🚀 Full-Stack Developer | 💡 Problem Solver </strong><br><br>
+I'm a software engineer with over <strong>13 years</strong> of experience building digital solutions across different areas of tech. I enjoy solving complex problems and learning something new every day.<br><br> 
+ 
 ## 🛠️ Tech Stack
 
 <div align="center">
