@@ -7,16 +7,13 @@
 
 # 👋 I'm Ezequiel
 
-<details>
-  <summary><strong>## 🔠 About Me</strong></summary>
+## 🔠 About Me
 
-<strong>💻 Software Engineer | Full-Stack Developer | Problem Solver</strong><br><br>
+<strong> 👷 Engineer | 💻 Software Engineer | 🥞 Full-Stack Developer | 🙌 Problem Solver </strong><br><br>
 I'm a software engineer with over <strong>13 years</strong> of experience building digital solutions across different areas of tech. I enjoy solving complex problems and learning something new every day.<br><br>
 🚀 Always building something new<br>
 🌟 Open to collaboration<br>
 💡 Love sharing ideas
-
-</details>
 
 ## 🛠️ Tech Stack
 
