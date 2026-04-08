@@ -1,60 +1,132 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════════════════╗
-  ║                          👋 Hello! I'm Ezequiel                              ║
-  ║                    Software Engineer | Full-Stack Developer                  ║
+  ║    I used to write code. Now I architect the things that write it.            ║
   ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
-# 👋 I'm Ezequiel
-
-## 🔠 About Me
-
-<strong> 💻 Software Engineer | 🚀 Full-Stack Developer | 💡 Problem Solver </strong><br><br>
-I'm a software engineer with over <strong>13 years</strong> of experience building digital solutions across different areas of tech. I enjoy solving complex problems and learning something new every day.<br><br> 
- 
-## 🛠️ Tech Stack
+<!-- 💡 ANIMATION SUGGESTION: The capsule-render header below creates a subtle
+     animated wave with a fade-in title. If you want something more custom,
+     consider an animated SVG with CSS keyframes for a glitch-text or
+     typewriter reveal. Keep it minimal — the irony does the heavy lifting. -->
 
 <div align="center">
 
-### 💎 Core Technologies
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & Deployment
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Fly.io](https://img.shields.io/badge/Fly.io-011627?style=for-the-badge&logo=flydotio&logoColor=white)
-
-### 🔧 DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 💻 Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-### 🛠️ Development Tools
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Ezequiel&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20→%20Systems%20Thinker&descSize=16&descAlignY=56&descColor=8b949e" width="100%" alt="header" />
 
 </div>
+
+## I used to be a developer.
+
+Pause.
+
+Now I manage machines that write code faster than I ever could.
+
+That's not a tragedy. That's leverage.
+
+<br>
+
+## ⏪ The Before Times
+
+For 13+ years I shipped software. Fast. Across industries, across stacks, across clouds. I wrote the code, reviewed the code, deployed the code, debugged the code at 2 AM, and mass produced the code again on Monday.
+
+I knew my languages. I knew my frameworks. I could scaffold a REST API before my coffee got cold. Coding speed was a competitive advantage, and I had plenty of it.
+
+That era is over. Not because I got slower. Because something else got impossibly fast.
+
+<br>
+
+## ⚡ The Plot Twist
+
+AI doesn't write code the way I did. It writes code the way I *wished* I did — instantly, tirelessly, and without opinions about tabs vs. spaces.
+
+So my job changed. I don't produce keystrokes anymore. I produce decisions.
+
+- What to build. Why to build it. How the pieces compose.
+- I don't fight the tools. I orchestrate them.
+- I'm not an "AI slave." I'm an AI middle-manager with opinions and commit access.
+
+The code still ships. It just ships at the speed of existential crisis now.
+
+<br>
+
+## 🔀 Then vs. Now
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ THEN — Classical Stack
+
+The era of hand-crafted artisanal software.
+
+**Languages:** TypeScript, JavaScript, Python, Java, PHP, Go, SQL
+
+**Cloud:** AWS, GCP, Vercel, Heroku, Netlify, Fly.io
+
+**DevOps:** Docker, Kubernetes, CI/CD pipelines, Bash scripts held together by hope
+
+**Tools:** VS Code, Sublime Text, Node.js, and 47 Stack Overflow tabs
+
+**Vibe:** "I built this entire feature in a weekend" *(it had three bugs)*
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 NOW — Post-Stack Stack
+
+The era of designing systems that build things for you.
+
+**AI IDEs:** Cursor, Kiro, Windsurf, and whatever ships next Tuesday
+
+**Models:** Large ones, small ones, local ones, hosted ones, the one that turned a napkin sketch into a working app
+
+**Workflow:** Agents, copilots, orchestration layers, prompt chains, context engineering
+
+**Tools:** Still Docker. Some things are eternal.
+
+**Vibe:** "I shipped this entire feature in 20 minutes" *(the AI introduced three bugs, but also wrote the tests and the fix)*
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎭 Honest Observations
+
+- I write prompts instead of for-loops now. My WPM went down. My output went up. Make it make sense.
+- Code reviews now involve a silicon coworker that never sleeps, never gets offended, and never leaves passive-aggressive PR comments. Progress.
+- I shipped more in the last year than in the previous five. That sentence is recursive and so is my workflow.
+- The stack matters less than the system. The system matters less than the thinking. The thinking doesn't matter if you can't ship.
+- So I ship.
+
+<br>
+
+## 🔭 The Closer
+
+I don't just write software anymore.
+
+I design systems that write it. I decide what gets built, how it composes, and where the humans still matter — spoiler: everywhere that isn't boilerplate.
+
+13 years of building things by hand taught me *what* to build. The next 13 will be about building the machinery that builds it.
+
+The future isn't "AI replaces developers." The future is developers who refuse to evolve get quietly left behind.
+
+I chose to evolve. And honestly? It's more fun on this side.
+
+<br>
+
+<!-- 💡 ANIMATION SUGGESTION: The typing-effect SVG below cycles through
+     short phrases. It adds a subtle, on-brand animation without being noisy.
+     Source: https://github.com/DenverCoder1/readme-typing-svg -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=80&lines=Prompting...;Shipping...;Reviewing+with+silicon...;Repeat." alt="Typing SVG" />
+
+</div>
+
+<br>
 
 ## 🤝 Let's Connect
 
@@ -65,18 +137,22 @@ I'm a software engineer with over <strong>13 years</strong> of experience buildi
   <a href="mailto:lzdzel@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <br>
-  <strong>💬 Always open to connecting and sharing ideas!</strong>
 </div>
 
-## 🌟 Thanks for visiting my profile!
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=eimf&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
+
 <!--
-  ╔══════════════════════════════════════════════════════════════════════════════╗
-  ║  "The best way to predict the future is to create it." - Peter Drucker       ║
+  ╔══════════════════════════════════════════════════════════════════════════════╝
+  ║    "The best way to predict the future is to architect it."                  ║
   ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
