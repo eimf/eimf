@@ -21,8 +21,6 @@ Pause.
 
 Now I manage machines that write code faster than I ever could.
 
-That's not a tragedy. That's leverage.
-
 <br>
 
 ## ⏪ The Before Times
